@@ -1,0 +1,1 @@
+select * from WFM_ID where ID_ID in ('1049627689','74245477')
